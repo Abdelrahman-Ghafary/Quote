@@ -1,0 +1,33 @@
+.items_container
+{
+    text-align: center;
+}
+
+.items_container h1
+{
+ font-weight: 800;
+ font-size: 80px;
+}
+
+
+.items_container p
+{
+
+ font-size: 40px;
+}
+
+.items_container button
+{
+    padding: 30px 70px;
+    background-color: blue;
+    color: white;
+    font-weight: 500;
+} 
+
+
+.items_container button:hover
+{
+    cursor: pointer;
+    transition: 1s;
+    background-color: green;
+}
